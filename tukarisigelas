@@ -9,7 +9,7 @@
 ## bentuk formal algoritma dalam bahasa C
 ```C
 main() {
-  ibt a;
+  int a;
   int b;
   int c;
   
@@ -20,4 +20,5 @@ main() {
   a = b;
   b = c;
     }
+    
  ```
