@@ -1,0 +1,23 @@
+## algoritma tukar gelas
+```
+1. siapkan gelas cadangan.
+2. tuangkan isi gelas teh kedalam gelas cadangan.
+3. tuangkan kopi ke gelas teh yang sudah kosong.
+4tuangkan teh dlam gelas cadangan ke gelas kopi yang sudah kosong.
+```
+
+## bentuk formal algoritma dalam bahasa C
+```C
+main() {
+  ibt a;
+  int b;
+  int c;
+  
+  a = 10;
+  b = 15;
+  
+  c = a;
+  a = b;
+  b = c;
+    }
+ ```
